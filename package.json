@@ -1,0 +1,13 @@
+{
+  "name": "testing-prac",
+  "version": "1.0.0",
+  "description": "This is a bassic test practise using javascript",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
